@@ -18,4 +18,4 @@ config/features=PackedStringArray("4.3", "Forward Plus")
 
 [dotnet]
 
-project/assembly_name="RikkiKuuBaseMod_DONTNET"
+project/assembly_name="RikkiKuuMod"

@@ -1,0 +1,7 @@
+
+# ignore Godot 4+ editor folder and specifically all contents recursively
+.godot/**
+
+# but consider the contents of folders along the way in case we want to track something in particular
+!.godot/**/
+
